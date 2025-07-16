@@ -8,15 +8,11 @@ The code implements the "A Leader-Follower Contrastive Learning Framework for im
 <hr>
 The code in this toolbox implements the
 
-["A Leader-Follower Contrastive Learning Framework for imbalanced Multimodal Remote Sensing Image Classification"]([https://ieeexplore.ieee.org/document/9734031](https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2513561))
+["A Leader-Follower Contrastive Learning Framework for imbalanced Multimodal Remote Sensing Image Classification"](https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2513561)
 
 More specifically, it is detailed as follow.
 
 ![](Framework.png)
-
-Four kinds of HSI transformation operations are detailed as follow:
-
-![](operations.png)
 
 
 ### System-Spefic notes:
@@ -36,16 +32,14 @@ First, running the `pretrain_main.py` to pretrain the model, This operation will
 ### Citation
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 ```
-@ARTICLE{9734031,
-  author={Zhao, Lin and Luo, Wenqiang and Liao, Qiming and Chen, Siyuan and Wu, Jianhui},
-  journal={IEEE Geoscience and Remote Sensing Letters}, 
-  title={Hyperspectral Image Classification With Contrastive Self-Supervised Learning Under Limited Labeled Samples}, 
-  year={2022},
-  volume={19},
-  number={},
-  pages={1-5},
-  keywords={Feature extraction;Task analysis;Supervised learning;Hyperspectral imaging;Jitter;Training;Kernel;Contrastive learning;hyperspectral image (HSI) classification;limited labeled samples;self-supervised learning~(SSL)},
-  doi={10.1109/LGRS.2022.3159549}}
+@article{li2025leader,
+  title={A leader-follower contrastive learning framework for imbalanced multimodal remote sensing image classification},
+  author={Li, Jia and Zhao, Lin and Tan, Ping and Zhao, Minhui and Zhang, Guoyun and Li, Xinping},
+  journal={International Journal of Remote Sensing},
+  pages={1--28},
+  year={2025},
+  publisher={Taylor \& Francis}
+}
 ```
 <hr>
 
