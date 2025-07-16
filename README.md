@@ -1,7 +1,4 @@
-# LFCL
-The code implements the "A Leader-Follower Contrastive Learning Framework for imbalanced Multimodal Remote Sensing Image Classification"
-
-### Hyperspectral Image Classification With Contrastive Self-Supervised Learning Under Limited Labeled Samples
+### A Leader-Follower Contrastive Learning Framework for imbalanced Multimodal Remote Sensing Image Classification
 
 <font color='#88CDF6'> Jia Li, Lin Zhao*, Ping Tan, Minhui Zhao, Guoyun Zhang & Xinping Li</font>
 
