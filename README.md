@@ -3,7 +3,7 @@ The code implements the "A Leader-Follower Contrastive Learning Framework for im
 
 ### Hyperspectral Image Classification With Contrastive Self-Supervised Learning Under Limited Labeled Samples
 
-<font color='#88CDF6'> Jia Li, Lin Zhao*, Ping Tan, Minhui Zhao, Guoyun Zhang % Xinping Li</font>
+<font color='#88CDF6'> Jia Li, Lin Zhao*, Ping Tan, Minhui Zhao, Guoyun Zhang & Xinping Li</font>
 
 <hr>
 The code in this toolbox implements the
